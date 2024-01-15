@@ -2,7 +2,7 @@
 
 ## Function and Method Comment Blocks
 
-`
+```C
 /// <#DESCRIPTION OF FUNCTION#>
 ///
 /// - Precondition: <#WHAT DO WE NEED TO CALL *BEFORE* CALLING?#>
@@ -17,7 +17,7 @@
 /// - Date: <#UPDATE DATE#>
 ///
 /// - Version: <#1.0#>
-`
+```
 
 ### Proper Formats
 #### Alternative Block Style
