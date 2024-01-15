@@ -36,7 +36,7 @@ Warnings are for when the program could crash as a result of misuse or if an uni
 #### Paramters (or Param or Paramter)
 Paramters are very important. Be sure to use the format above. We need to know it is a parameter, what the name is, and what it is used for. Many people comment just what the positional argument is, but we need to label it. Of course, only add these if there is a paramter.
 
-#### Returns (or Return)
+#### Returns
 Returns tag is also very importnat. We need to know what is being returned. Althought importnant, it can be very short in the description.
 
 #### Seealso [Optional]
