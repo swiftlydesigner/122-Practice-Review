@@ -3,6 +3,7 @@
 ## Function and Method Comment Blocks
 
 `
+/// <#DESCRIPTION OF FUNCTION#>
 ///
 /// - Precondition: <#WHAT DO WE NEED TO CALL *BEFORE* CALLING?#>
 /// - Postcondition: <#WHAT DO WE NEED TO KNOW *AFTER* CALLING?#>
