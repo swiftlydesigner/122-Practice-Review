@@ -65,7 +65,7 @@ bool printSuccessFailureResult(char * inputE, char * inputA,
 /// - Date: Jan 14, 2024
 ///
 /// - Version: 1.0
-void testmyStrTok1(void) {
+void testMyStrTok1(void) {
     // Define the delims for test 1 (spaces)
     char * delims = " ";
     
@@ -113,7 +113,7 @@ void testmyStrTok1(void) {
 /// - Date: Jan 14, 2024
 ///
 /// - Version: 1.0
-void testmyStrTok2(void) {
+void testMyStrTok2(void) {
     // Define the delims for test 2 (space, period, comma)
     char * delims = "., ";
     
@@ -161,7 +161,7 @@ void testmyStrTok2(void) {
 /// - Date: Jan 14, 2024
 ///
 /// - Version: 1.0
-void testmyStrTok3(void) {
+void testMyStrTok3(void) {
     // Define the delims for test 3 (new lines, tabs, 'f', 'm')
     char * delims = "\n\tfm";
     
