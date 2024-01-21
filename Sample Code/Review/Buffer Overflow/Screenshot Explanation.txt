@@ -1,0 +1,5 @@
+we can see that LITERAL STRING TO SHOW DIFFERENCE is in different positions when we put line numbers for the print statements (see code lines 66-76).
+
+We also see that repetive strings are only represnted once in the strings. Another way to read these values is to create the binary then use a program called strings on linux CLI.
+
+I am showing this because you can now see how reading past the specified index can corrupt your program. My system will not allow me to write in these areas. Some systems may, and that is another concept to understand. If your machine permits or denies you to read/write using some poor coding practice, it needs to be changed. Unless we are attempting to read stuff we should not, then code like this is ok. Otherwise, your code should be very straight-forward and always read in bounds.
