@@ -1,0 +1,1 @@
+Please explore the PA 1 Help.c and .h files. Not all sample code will work without modification. This is by design to ensure you understand the code. If you have questions, please reach out via email or MS Teams.
